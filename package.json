@@ -1,0 +1,22 @@
+{
+  "name": "stockx",
+  "version": "1.0.0",
+  "description": "an app that alerts shoe bid prices",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tylerdamonwill/stockx.git"
+  },
+  "keywords": [
+    "stockX"
+  ],
+  "author": "Tyler Williams",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tylerdamonwill/stockx/issues"
+  },
+  "homepage": "https://github.com/tylerdamonwill/stockx#readme"
+}
